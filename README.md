@@ -15,8 +15,7 @@ This program will brute force any Instagram account you send it its way given a 
 
 It motivates me to keep updating this program.
 
-> **Bitcoin Wallet:** 3Kr5C9t9HWwPfqzSNXeBNyRvJWw9sSLeKy<br/>
-> **PayPal:** https://www.paypal.me/Msheikh03
+> **PayPal:** https://www.paypal.me/mochrevano
 
 ## Requirements
 
